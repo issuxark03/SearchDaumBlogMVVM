@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": "master",
+          "revision": "2235a22ca249199cb736237f4bb9cc12b6ed416a",
+          "version": null
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/reactivex/rxswift",
+        "state": {
+          "branch": null,
+          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
+          "version": "6.5.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": "develop",
+          "revision": "07c5d1f6044701d97e94dc11157259e8811977be",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
